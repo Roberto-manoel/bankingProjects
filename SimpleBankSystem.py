@@ -167,5 +167,6 @@ def main():
 
         else:
             print("Operação inválida, por favor selecione novamente a operação desejada.")
+# Inicia o programa.
 
 main()
